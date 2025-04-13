@@ -1,3 +1,0 @@
-# submission_cluster_calasification
-# ML_Netflix_Movie_Analysis
-# ML_Netflix_Movie_Analysis
